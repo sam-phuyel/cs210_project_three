@@ -1,13 +1,22 @@
 # cs210_project_three
-- Summarize the project and what problem it was solving.
-- This project demonstrate the usage of File I/O features of C++. It reads the texts from the file, process it, and output modified data. 
-- What did you do particularly well?
-- I have encapsulated all the data and functions in a Class, which helped me write clean code. 
-- Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-- I could utilize other OOP features of C++ to make my program more robust. 
-- Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-- I particularly find the part where I read from the file and writing modified text to another file challenging, but also gained valuable insight. 
-- What skills from this project will be particularly transferable to other projects or course work?
-- I will take with me the concepts of OOP. This will greatly help with in my journey to become a Software Developer. 
-- How did you make this program maintainable, readable, and adaptable?
-- I have use OOP concepts, comments and documentations to make this program maintainable, readable and adaptable. 
+Project Summary
+This project demonstrates the usage of File I/O features in C++. It involves reading text from a file, processing it, and outputting modified data.
+
+Key Achievements
+Encapsulation: All data and functions have been encapsulated within a class, resulting in clean code.
+Areas for Improvement
+To make the code more robust, the following enhancements could be made:
+
+Utilizing other object-oriented programming (OOP) features of C++.
+Implementing additional error handling and input validation mechanisms.
+Challenging Code Sections
+The most challenging part of the code was the <span style="color:blue">file reading and writing operations</span>. However, it provided valuable insights and learning experiences.
+
+Transferable Skills
+The project has provided a solid foundation in OOP concepts, which can be applied to future projects and coursework. This knowledge will greatly benefit progress towards becoming a Software Developer.
+
+Maintainability, Readability, and Adaptability
+To ensure the program's maintainability, readability, and adaptability, the following measures have been taken:
+
+Utilization of OOP concepts.
+Incorporation of comments and documentation throughout the codebase.
